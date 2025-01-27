@@ -3,5 +3,6 @@ Hey there, here i'll share a project that i'm learning on a course called by "In
 ## Some Tecnologies Used
 - Java
 - Spring Boot
-- JPA / Hibernate
+- JPA / H2 Database
+- Postman API Platform / JSON
 - Maven
